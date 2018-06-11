@@ -9,7 +9,7 @@ h1{
 
 button.accordion {
   width:100%;
-  background-color:whitesmoke;
+  background-color:rgba(199, 127, 183, 0.425);
   border: none;
   outline: none;
   text-align: left;
